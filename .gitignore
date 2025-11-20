@@ -1,2 +1,12 @@
-.vscode/settings.json
-*.json
+*.exe
+*.o
+*.obj
+*.log
+build/
+bin/
+*.user
+*.vcxproj*
+*.sln
+__pycache__/
+.vscode/
+*.dll
