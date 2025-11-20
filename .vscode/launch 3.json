@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/eastermanyara/Desktop/c_class_Task 19-01-26-549",
+      "program": "/Users/eastermanyara/Desktop/c_class_Task 19-01-26-549/build/Debug/outDebug"
+    }
+  ]
+}
